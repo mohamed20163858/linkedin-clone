@@ -7,7 +7,7 @@ function Header() {
     <div className="header">
         {/* header_left */}
         <div className="header_left">
-            <img src="" alt="" />
+            <img src="linkedin.png" alt="linkedin-logo" />
             <div className="header_search">
                 <SearchIcon />
                 <input type="text" name="" id="" />
