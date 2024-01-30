@@ -47,4 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Live Demo
 
-(LinkedIn Clone)[https://linkedin-clone-5edcd.web.app/]
+[LinkedIn Clone](https://linkedin-clone-5edcd.web.app/)
