@@ -20,8 +20,8 @@ function App() {
           login({
             email: userAuth.email,
             uid: userAuth.uid,
-            displayName: userAuth.name,
-            photoUrl: userAuth.photoUrl,
+            displayName: userAuth.displayName,
+            photoUrl: userAuth.photoURL,
           })
         );
       } else {
